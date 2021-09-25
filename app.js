@@ -1,7 +1,8 @@
 const express = require('express');
 const mongoose = require("mongoose");
 const JWT_SECRET = "ydhdhnnbczwqpypqd575g";
-MONGOURI = "mongodb+srv://jayant4412:jayant4412@cluster0.yrjo8.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+MONGOURI = "add url here";
+//please remember to add your own cluster url
 const PORT = 5000;
 
 const app = express();
